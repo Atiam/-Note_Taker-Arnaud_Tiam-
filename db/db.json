@@ -2,5 +2,15 @@
     {
         "title": "test title",
         "text": "test"
+    },
+    {
+        "id": "e2bd",
+        "title": "New note 4",
+        "text": "Content 4"
+    },
+    {
+        "id": "a302",
+        "title": "New note 5",
+        "text": "Content5"
     }
 ]
