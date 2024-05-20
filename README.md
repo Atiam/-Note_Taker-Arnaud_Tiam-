@@ -30,8 +30,6 @@ For any correction, please find the source code on Atiam Github. For any questio
 
 [![Watch the video](https://github.com/Atiam/Note_Taker-Arnaud_Tiam-/blob/main/assets/images/Video-image.png)](https://drive.google.com/file/d/1whYucCByPkpfI4II8WnndpXwhHBRwcgc/view)
 
-![Please click here to Watch the video](https://github.com/JescelJames/svg-logo-maker/assets/105643185/8a1e60ba-76b7-43f7-b263-834738c56830)
-
 Testing
 
 ![testing](https://github.com/Atiam/Note_Taker-Arnaud_Tiam-/blob/main/assets/images/note_taker-image-1.png)
