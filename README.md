@@ -14,6 +14,7 @@ This applicationis a note taker; it can be used to write and save notes.
 AS A small business owner,
 You WANT to be able to write and save notes,
 SO THAT you can organize your thoughts and keep track of tasks your need to complete.
+You can access the appliction here: https://note-taker-arnaud-tiam.onrender.com/notes
 
 ## License
 This application is licensed under the MIT license.
