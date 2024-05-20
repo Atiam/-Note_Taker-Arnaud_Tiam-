@@ -31,7 +31,6 @@ For any correction, please find the source code on Atiam Github. For any questio
 
 [![Watch the video](https://github.com/Atiam/Note_Taker-Arnaud_Tiam-/blob/main/assets/images/Video-image.png)](https://drive.google.com/file/d/1whYucCByPkpfI4II8WnndpXwhHBRwcgc/view)
 
-Testing
 
 ![testing](https://github.com/Atiam/Note_Taker-Arnaud_Tiam-/blob/main/assets/images/note_taker-image-1.png)
 
